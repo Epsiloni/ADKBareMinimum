@@ -2,8 +2,9 @@
 ## Rewritten by Assaf Gamliel (goo.gl/E2MhJ) (assafgamliel.com).
 ### Based on Simon Monk code.
 
-Feel free to contact me with any question, I hope I can help.
-This code should give you a good jump start with your Android and Arduino project.
+This project was done due to the lack of information on Android and Arduino communication on the internet.
+I made a project which is the absolutely minimum code you need to start building your own projects with Android and Arduino.
 
-This is the minimum you need to communicate between your Android device and your Arduino device.
-If needed I'll upload the example I made (Sonar distance measureing device).
+It might lack some documentation. But it shouldn't be too hard to follow. If you need any help, feel free to contact me, and I'll try to help or post more code to help you wrap your head around it.
+
+--If needed I'll upload the example I made (Sonar distance measureing device).

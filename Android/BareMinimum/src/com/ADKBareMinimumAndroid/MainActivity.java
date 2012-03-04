@@ -1,6 +1,7 @@
 package com.ADKBareMinimumAndroid;
 
 /**
+ * https://github.com/Epsiloni/ADKBareMinimum
  * Based on Simon Monk code.
  * Rewritten by Assaf Gamliel (goo.gl/E2MhJ) (assafgamliel.com).
  * Feel free to contact me with any question, I hope I can help.
