@@ -1,4 +1,4 @@
-# ADK Bare Minimum Projeect
+# ADK Bare Minimum Project
 ## Rewritten by Assaf Gamliel (goo.gl/E2MhJ) (assafgamliel.com).
 ### Based on Simon Monk code.
 
